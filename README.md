@@ -2,23 +2,23 @@
 
 A modern and responsive coffee shop web application built with **React**, **Vite**, and **Tailwind CSS**. Brewlette provides an elegant user interface for exploring coffee products, featured beverages, and café offerings with a smooth and engaging browsing experience.
 
-## ✨ Features
+##  Features
 
-- ☕ Modern coffee shop landing page
-- 📱 Fully responsive design
-- 🎨 Beautiful and minimal UI
-- ⚡ Fast performance with Vite
-- 🧩 Reusable React components
-- 🌟 Smooth user experience
+-  Modern coffee shop landing page
+-  Fully responsive design
+-  Beautiful and minimal UI
+-  Fast performance with Vite
+-  Reusable React components
+-  Smooth user experience
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js
 - Vite
 - Tailwind CSS
 - JavaScript (ES6+)
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 brewlette/
@@ -29,7 +29,7 @@ brewlette/
 └── README.md
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the repository
 
@@ -56,14 +56,14 @@ Open your browser and visit:
 http://localhost:5173
 ```
 
-//## 📸 Preview
+//##  Preview
 
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
 
-## 👨‍💻 Author
+##  Author
 
 **Thejaswi Nayak**
 
