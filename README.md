@@ -65,8 +65,8 @@ http://localhost:5173
       <img src="https://github.com/user-attachments/assets/3c1c0109-5755-484d-922e-02b653e3b90a" width="500" alt="Home"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/4af7d268-34d6-4ab1-9e30-813049c73694" width="500" alt="Discover"/>
-    </td>
+      <img src="https://github.com/user-attachments/assets/a10b44a4-546e-4d4c-af74-552dd09feadb" width="500" alt="Favorites"/>
+          </td>
   </tr>
 
   <tr>
@@ -74,7 +74,7 @@ http://localhost:5173
       <img src="https://github.com/user-attachments/assets/c66f582f-dc86-4246-8f60-3d2ed45cccd7" width="500" alt="Coffee Roulette"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/a10b44a4-546e-4d4c-af74-552dd09feadb" width="500" alt="Favorites"/>
+      <img src="https://github.com/user-attachments/assets/4af7d268-34d6-4ab1-9e30-813049c73694" width="500" alt="Discover"/>
     </td>
   </tr>
 
