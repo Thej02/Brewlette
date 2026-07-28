@@ -98,6 +98,4 @@ Contributions are welcome! Feel free to fork the repository, create a new branch
 
 - GitHub: https://github.com/Thej02
 
----
 
-⭐ If you like this project, consider giving it a star!
