@@ -72,7 +72,6 @@ http://localhost:5173
   <tr>
     <td align="center">
       <img width="561" height="530" alt="Screenshot 2026-07-28 235511" src="https://github.com/user-attachments/assets/aaf9ba11-e3ea-4435-b7b8-1b8b5bb97f5f" />
-
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/4af7d268-34d6-4ab1-9e30-813049c73694" width="500" alt="Discover"/>
