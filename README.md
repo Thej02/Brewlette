@@ -57,8 +57,36 @@ Open your browser and visit:
 http://localhost:5173
 ```
 
-##  Preview
+## Preview
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3c1c0109-5755-484d-922e-02b653e3b90a" width="500" alt="Home"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4af7d268-34d6-4ab1-9e30-813049c73694" width="500" alt="Discover"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c66f582f-dc86-4246-8f60-3d2ed45cccd7" width="500" alt="Coffee Roulette"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a10b44a4-546e-4d4c-af74-552dd09feadb" width="500" alt="Favorites"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3ce7bca4-bb54-4707-ba5e-1eeca8e475a7" width="500" alt="About"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/37136edc-3f2b-4c40-a9ea-613eb7551b30" width="500" alt="Tech Stack"/>
+    </td>
+  </tr>
+</table>
 
 ##  Contributing
 
