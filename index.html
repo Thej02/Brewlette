@@ -1,19 +1,59 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#FFF8F0" id="theme-meta" />
-    <meta name="description" content="Never waste 20 minutes deciding where to grab coffee. Spin the wheel to discover your perfect nearby café based on your mood." />
-    <meta name="keywords" content="coffee, cafe, finder, mood-based, roulette, discover, workspace" />
-    <!-- Playfair Display and Poppins are imported in index.css -->
-    <title>☕Brewlette— Spin & Discover Your Next Café</title>
-    <script type="module" crossorigin src="/assets/index-BdysDYX_.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-Cz1BDpKJ.css">
-  <link rel="manifest" href="/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/registerSW.js"></script></head>
-  <body class="bg-cream-200 text-coffee-700">
-    <div id="root"></div>
-  </body>
-</html>
 
+<head>
+    <meta charset="UTF-8" />
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    />
+
+    <title>Brewlette ☕ | Spin & Discover Your Café</title>
+
+    <meta
+        name="description"
+        content="Brewlette helps you discover your next favorite café through a fun roulette experience."
+    />
+
+    <meta
+        name="theme-color"
+        content="#FFF8F0"
+    />
+
+    <link
+        rel="icon"
+        href="/favicon.svg"
+        type="image/svg+xml"
+    />
+
+    <link
+        rel="manifest"
+        href="/manifest.webmanifest"
+    />
+
+    <link
+        rel="stylesheet"
+        href="/appbundle.css"
+    />
+
+    <script
+        type="module"
+        src="/appbundle.js"
+        defer
+    ></script>
+
+    <script
+        src="/register-service-worker.js"
+        defer
+    ></script>
+
+</head>
+
+<body class="bg-cream-200 text-coffee-700">
+
+    <div id="root"></div>
+
+</body>
+
+</html>
