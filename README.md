@@ -2,7 +2,6 @@
 
 A modern and responsive coffee shop web application built with **React**, **Vite**, and **Tailwind CSS**. Brewlette provides an elegant user interface for exploring coffee products, featured beverages, and café offerings with a smooth and engaging browsing experience.
 
-Live Demo: https://brewlette.netlify.app/
 ##  Features
 
 -  Modern coffee shop landing page
